@@ -4,8 +4,6 @@ import (
 	"encoding"
 	"fmt"
 	"reflect"
-
-	"github.com/szyhf/go-convert"
 )
 
 // ref: gopkg.in/redis.v5

@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	convert "github.com/szyhf/go-convert"
-	excel "github.com/szyhf/go-excel"
+	convert "github.com/wgqi1126/go-convert"
+	excel "github.com/wgqi1126/go-excel"
 )
 
 func init() {

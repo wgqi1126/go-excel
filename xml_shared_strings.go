@@ -3,8 +3,6 @@ package excel
 import (
 	"encoding/xml"
 	"io"
-
-	"github.com/szyhf/go-convert"
 )
 
 func readSharedStringsXML(rc io.ReadCloser) []string {

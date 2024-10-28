@@ -1,8 +1,8 @@
 # Intro | 简介
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/szyhf/go-excel)](https://goreportcard.com/report/github.com/szyhf/go-excel)
-![cover.run go](https://cover.run/go/github.com/szyhf/go-excel.svg?tag=golang-1.10)
-[![GoDoc](https://godoc.org/github.com/szyhf/go-excel?status.png)](https://godoc.org/github.com/szyhf/go-excel)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wgqi1126/go-excel)](https://goreportcard.com/report/github.com/wgqi1126/go-excel)
+![cover.run go](https://cover.run/go/github.com/wgqi1126/go-excel.svg?tag=golang-1.10)
+[![GoDoc](https://godoc.org/github.com/wgqi1126/go-excel?status.png)](https://godoc.org/github.com/wgqi1126/go-excel)
 
 Expect to create a reader library to read relate-db-like excel easily.
 Just like read a config.
@@ -10,7 +10,7 @@ Just like read a config.
 > This library can read all xlsx file correctly from our project now.
 
 ```shell
-go get github.com/szyhf/go-excel
+go get github.com/wgqi1126/go-excel
 ```
 
 ## Example | 用例
@@ -29,7 +29,7 @@ Assume you have a xlsx file like below:
 + the first row is the title row.
 + other row is the data row.
 
-> All examples list in [https://godoc.org/github.com/szyhf/go-excel#pkg-examples](https://godoc.org/github.com/szyhf/go-excel#pkg-examples).
+> All examples list in [https://godoc.org/github.com/wgqi1126/go-excel#pkg-examples](https://godoc.org/github.com/wgqi1126/go-excel#pkg-examples).
 
 ```go
 // defined a struct
